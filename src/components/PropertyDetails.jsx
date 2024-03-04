@@ -122,7 +122,7 @@ const PropertyDetails = () => {
       <div className="md:col-span-2" data-aos="fade-down">
         <div className="boxShadow rounded-xl brightness-95">
           <img
-            src="https://i.ibb.co/vcnL8VT/2.jpg"
+            src="https://raw.githubusercontent.com/Tamhat/luxury-living-mainn/main/public/img9.jpeg"
             alt="Property Image"
             className="h-[200px] lg:h-[250px] w-full object-cover rounded-t-xl"
           />
